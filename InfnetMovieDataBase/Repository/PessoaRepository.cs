@@ -10,7 +10,7 @@ namespace InfnetMovieDataBase.Repository
     {
         //0. Saber achar o banco 
         //string connectionString = @"Data Source=(localdb)\MSSQLLocalDB;Initial Catalog=InfnetMovieDataBase;Integrated Security=True;Connect Timeout=30;Encrypt=False;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False";
-        string connectionString = @"Data Source=MACARRAO-LINGUI;Initial Catalog=InfnetMovieDataBase;Integrated Security=True";
+        
         //Métodos para manipulação de banco de dados:
 
         //Listar
